@@ -2,6 +2,8 @@
 
 This site is built for DevOps Assignment 7.
 
+See my [course notes](missing-page.html).
+
 ## Recent activity
 <!--START_SECTION:activity-->
 1. Added [Chien0509/activity-log](https://github.com/Chien0509/activity-log)
