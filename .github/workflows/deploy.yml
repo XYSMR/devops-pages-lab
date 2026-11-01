@@ -1,0 +1,60 @@
+name: Build, validate and deploy
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gate 1 - README markers present
+        run: |
+          grep -q '<!--START_SECTION:activity-->' README.md || { echo "::error::START marker missing"; exit 1; }
+          grep -q '<!--END_SECTION:activity-->' README.md   || { echo "::error::END marker missing"; exit 1; }
+
+      - uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Gate 2 - check links in built site
+        run: |
+          gem install html-proofer --no-document
+          htmlproofer ./_site \
+            --checks Links,Images,Scripts \
+            --disable-external \
+            --no-enforce-https \
+            --swap-urls '^/devops-pages-lab/:/'
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build          # deploy only runs if every gate passed
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
