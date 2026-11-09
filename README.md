@@ -4,14 +4,14 @@ This site is built for DevOps Assignment 7.
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/tree/main)
-2. 📝 Committed to main in [XYSMR/devops-pages-lab](https://github.com/XYSMR/devops-pages-lab/commit/519791154e76e04568dbd53105aec0c4995cb96c)
-3. 📝 Committed to main in [XYSMR/devops-pages-lab](https://github.com/XYSMR/devops-pages-lab/commit/f027667b8cb0ca2eed549dc17287ba9fc2c4ccb3)
-4. 📝 Committed to master in [XYSMR/activity-log](https://github.com/XYSMR/activity-log/commit/e9de2e7e7ee6b42bde173ec00fe5b97dc2643cb2)
-5. 📝 Committed to main in [XYSMR/devops-pages-lab](https://github.com/XYSMR/devops-pages-lab/commit/dc67fbab055d220576522699f27b6f4732a8e314)
-6. 📝 Committed to main in [XYSMR/devops-pages-lab](https://github.com/XYSMR/devops-pages-lab/commit/a6afa514a0680c00757de3d88a7d885caca142fa)
-7. 🎉 Created a new branch main in [XYSMR/devops-pages-lab](https://github.com/XYSMR/devops-pages-lab/tree/main)
-8. 📝 Committed to main in [XYSMR/devops-pages-lab](https://github.com/XYSMR/devops-pages-lab/commit/d773cdbfb910e705ffa6a60b2142036cd241bbe5)
-9. Added [Chien0509/activity-log](https://github.com/Chien0509/activity-log)
-10. 📝 Committed to main in a private repository
+1. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/aef228f2cb8e295d0e22480458fe074df5a3d5ef)
+2. 📥 Opened PR #5 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/5)
+3. 🔀 Merged PR #4 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/4)
+4. 📥 Opened PR #4 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/4)
+5. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/d755dc307a0a239329dbfa028ae618d23bb2fff9)
+6. 🎉 Created a new branch feat/rule-store in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/tree/feat/rule-store)
+7. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/5f3850e25cdca33c0300168f9f0e3c935dce6621)
+8. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/7dc2b53f1f1a0d4f05c507e80c3d31332cc26e55)
+9. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/44376ddb1c01cbfea3f8f6d4b60488bc6676cfb6)
+10. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/95037442d25dcb9b92b9b9c5c1295f2900634430)
 <!--END_SECTION:activity-->
