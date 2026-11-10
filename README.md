@@ -4,14 +4,14 @@ This site is built for DevOps Assignment 7.
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/aef228f2cb8e295d0e22480458fe074df5a3d5ef)
-2. 📥 Opened PR #5 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/5)
-3. 🔀 Merged PR #4 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/4)
-4. 📥 Opened PR #4 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/4)
-5. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/d755dc307a0a239329dbfa028ae618d23bb2fff9)
-6. 🎉 Created a new branch feat/rule-store in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/tree/feat/rule-store)
-7. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/5f3850e25cdca33c0300168f9f0e3c935dce6621)
-8. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/7dc2b53f1f1a0d4f05c507e80c3d31332cc26e55)
-9. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/44376ddb1c01cbfea3f8f6d4b60488bc6676cfb6)
-10. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/95037442d25dcb9b92b9b9c5c1295f2900634430)
+1. 🎉 Created a new branch feat/db-schema in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/tree/feat/db-schema)
+2. 🎉 Created a new branch feat/unsubscribe in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/tree/feat/unsubscribe)
+3. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/5d85c994b24a59e5f1d60faffcd2526bff8fb350)
+4. 🎉 Created a new branch feat/frontend-auth in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/tree/feat/frontend-auth)
+5. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/8707cb92d1fa5f89d5d8ae17e78f57b754790cdc)
+6. 🔀 Merged PR #10 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/10)
+7. 📥 Opened PR #10 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/10)
+8. 🔀 Merged PR #9 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/9)
+9. 📥 Opened PR #9 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/9)
+10. 📝 Committed to main in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/commit/50cd460a337f3bb3e7dee53244fadc82dd606dab)
 <!--END_SECTION:activity-->
